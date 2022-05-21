@@ -1,4 +1,13 @@
 team members 
 
 -Toka Alaaldien Mussad Hassan Elshershapy
--Sara Magdi Mohamed Abdelaziz
+-Sara Magdi Mohamed Abdelaz
+
+used in this project
+- cv2
+- os
+-sys
+- numpy
+- matplotlib.pyplot
+- enhance image_=> enhance
+- skimage.morphology => skeletonize, thin
