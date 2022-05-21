@@ -1,7 +1,7 @@
 team members 
 
 -Toka Alaaldien Mussad Hassan Elshershapy
--Sara Magdi Mohamed Abdelaz
+-Sara Magdi Mohamed Abdelaziz
 
 used in this project
 - cv2
